@@ -1,16 +1,10 @@
-### Hi there 👋
+Welcome to my GitHub page! My name is Ilan but I go by Bob.
 
-<!--
-**doorswildcard/doorswildcard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently working on polishing my skills as a programmer by building my fundamentals.
+I can be extremely passionate and ambitious about projects that are very challenging for me.
+I'm currently learning JavaScript and Python along with React and Flask and soon Django.
+I am very rusty with Java and Lua.
+Any advice on how to become a better software engineer is welcome!
 
-Here are some ideas to get you started:
+You can reach out to me at 917-600-1495
 
-- 🔭 I’m currently working on building my fundamentals.
-- 🌱 I’m currently learning JavaScript and Lua.
-- I am very rusty with Java.
-- 👯 I’m looking to collaborate on anything to get some experience.
-- 🤔 I’m looking for help with learning the ropes of being a software developer/engineer.
-- 💬 Ask me about the reason why I want to code.
-- 📫 How to reach me: Text me the word "Evoker" at 917-999-5029
-- ⚡ Fun fact: My favourite number is 0.
--->
